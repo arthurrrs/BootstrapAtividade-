@@ -1,0 +1,13 @@
+:root {
+    --cor-secundaria: #000;
+    --cor-terciaria: rgb(113, 118, 120);
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
+}
+
+
+
